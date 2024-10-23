@@ -1,0 +1,12 @@
+.bonus-history ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.bonus-history li {
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
